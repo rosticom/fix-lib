@@ -10,5 +10,5 @@ Hi friends! Now it shows YouTube playlist items:
 2. Use the playlistItems method instead of search.
 3. Can give a star?
 
-original repository
+fixed repository
 https://github.com/nitishk72/Youtube_API
