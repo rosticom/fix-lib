@@ -1,14 +1,11 @@
-# fix-lib (Android iOS WEB)
-Fix Flutter Lib: youtube_api 0.7.2
 
-- youtube_api.dart
-- _api.dart
+Fixed Flutter Pub Lib: youtube_api 1.0.4
+(git) https://github.com/nitishk72/Youtube_API
 
-Hi friends! Now it shows YouTube playlist items:
+1. Replace youtube_api.dart
+2. Replace _api.dart with playList_api.dart
 
-1. Be sure there are no private videos in your playlist. 
-2. Use the playlistItems method instead of search.
-3. Can give a star?
+Use the playList method instead of search.
+Now it shows YouTube playlist items.
 
-fixed repository
-https://github.com/nitishk72/Youtube_API
+Can give a star?
