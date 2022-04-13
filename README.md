@@ -4,7 +4,7 @@ Fixed Flutter Pub Lib: youtube_api 1.0.4
 
 1. Replace youtube_api.dart
 2. Replace youtube_video.dart
-3. Replace _api.dart with playList_api.dart 
+3. Replace _api.dart with playlist_api.dart 
 
 Use the playList method instead of search.
 Now it shows YouTube playlist items.
